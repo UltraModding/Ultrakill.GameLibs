@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
-    <metadata>
-        <id>Ultrakill.GameLibs-Stripped-Publicized</id>
-        <version>0.0.16-d</version> <!-- Patch name format, reserving the initial 2 numbers for when the game reaches 1.0-->
-        <description>The stripped and publicized Assembly-CSharp.dll of Ultrakill. Packaged and maintained by @10_days_till_xmas</description>
-        <authors>Hakita, 10_days_till_xmas</authors>
-    </metadata>
+  <metadata>
+    <id>Ultrakill.GameLibs-Stripped-Publicized</id>
+    <version>0.0.16-d</version> <!-- Patch name format, reserving the initial 2 numbers for when the game reaches 1.0-->
+    <description>The stripped and publicized Assembly-CSharp.dll of Ultrakill. Packaged and maintained by @10_days_till_xmas</description>
+    <authors>Hakita, 10_days_till_xmas</authors>
+    <license>https://github.com/UltraModding/Ultrakill.GameLibs/blob/master/LICENSE.md</license>
+  </metadata>
 </package>
