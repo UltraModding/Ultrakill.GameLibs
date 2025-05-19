@@ -1,0 +1,1 @@
+Given informal permission to publish stripped assemblies by Hakita
